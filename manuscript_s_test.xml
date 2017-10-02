@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?
+   <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Die bekeronge der selicher Marien Magdalenen ist geschehet, 
+            als die lerer schrybent, vff den irsten dags des mertze. 
+            Maria Magdalena was geborren van eym edelen stame vnd eirlichem 
+            geslecht der stait van Jherusalem. Yre vader hieße Cierus vnd 
+            yre moderen Euckaria, vnd sy haitten zwe dochter vnd eynen sone. 
+            Die eyne dochter hieße Martha vnd die ander Maria. Der sone hieße 
+            Lazarus vnd er was der, wylcher vnser here vff erwecket van dem dode, 
+            da er vyer dage doit jn dem grabe hait gelegen. Na dem dode yrer 
+            alderen deylten die kynder yr vederliches erbe. Lazarus namme eyn 
+            groiße deylle yn der stait van Jherusalem vnd er ubet sich yn 
+            rytterschaifft, want er was eyn rytter. Martha gelobet, [350v] 
+            got zo dyenen yn reynicheit. Vnd sie <sic>wart</sic> eyne 
+            wyrttynnen vnd herbrycht die pylger, vnd sonderlichen vmb yrs 
+            hailgen lebens willen was sie wirdiche zo herbrygen vnseren lyeben 
+            heren Jhesum Christum vnd syne lyebe moder Maria vnd die heilgen 
+            apostelen. Vnd yre deyl was das stetgyn van Bethanyen gelegen by 
+            Jherusalem. Vnd was yre vber verlyehen van yrer renten, das gaiffe 
+            sie den armen vmb got. Maria namme zo yrem deylle das sloiße geheißen 
+            Magdalum vnd da van wart yre der namen Magdalena gegeben. Alle yre gut 
+            vnd rentten bracht sie zo yn groißen sunden myt boißer geselschaifft. 
+            Vnd die boißen geist brachten sie zo falle durch yren boißen willen 
+            vnd manchueldige sunden: zo dem irsten mail yn hoifferdicheit, [351r] 
+            want sie was also houerdich van hertzen, das <sic>yr</sic> duchte, 
+            das nyemantz gelychen were yn suberlicheit yn edelheit vnd yn rychheit. 
+            Auch was sie also houerdich yn den wortten vnd wercken myt cleytderen 
+            vnd myt zyertheit yrs lychams. Sie was auch sere gyrich yn tzijtlichen 
+            dyngen: gut, ere vnd woilluste der werelt. Auch was sie vnkusche myt 
+            wortten vnd myt wercken, also daz sie yre gut geruchte vnd yren eygen 
+            namen verlore, vnd auch also swerlichen, daz sie eyne vffenbair 
+            sunderschen wart geheißen, als vns saget der ewangelysta sanctus 
+            Lucas, want sie sundiget swerlichen myt yrem gesicht vnde myt [351v] 
+            handelonge der vngelicher personen. Aber yre lyebe suster Martha 
+            claget daz leben yrer suster der moder Christi myt schryenden augen 
+            vnd bayt sie, daz sye Christum wolde vor sie beden. Der lerer Ysiderus, 
+            der dyeße leben beschreben haitte yn dem buche, das da ist geheißen 
+            das buche van dem dode der heilgen, sprache also, das dyeße susteren 
+            quamen zosamen zo Bethanien vnd Maria Magdalena gegynck sytzen vor 
+            eynen spegel vnd sie flichet yre schones haire vnd sie zieret yren 
+            lycham. Da sprache zo yre Martha, yre suster, myt clegelicher stymmen: 
+            ›Also zierestu dich na dem flesche vnd dyne schone sele, die da geschaiffen 
+            ist na dem bylde godes, [352r] befleckestu myt dynen groißen sunden. 
+            Jch beden dich, lyebe suster, gedencke, das dyn lycham hait schult van 
+            der selen, vnd gedencke, das dyne schone lycham, den du zyerst myt gultde 
+            vnd myt sylber, das der selbe saille werden eyn spyße der worme.‹ 
+            Da antwert Maria vnd sprach: ›Myn vßerkoren suster, na dem das ich 
+            so suberlich byn an dem lycham vnd yn rycheit dyeßer werelt, so 
+            beden ich dich, syst zofreden vnd laiße mych myn gut verzeren myt 
+            freuden vnd myt den lyebhaueren dyeßer <sic>werelt</sic>. Vnd laiße 
+            vns n<sic>uv</sic>froeliche synne myt eynander, wer weyße wie lange!‹ Des anderen dags 
+            zoge Maria zo huyße vnd Martha schreye aller bytterlichs, das jre 
+            suster also wyllte was. Dar na vber [352v] zweyn mande haitten die 
+            jongeren von Constantinopel yren hoiffe zo Jherusalem vnd waren da 
+            froelich. Vnd dar zo wart auch geroiffen Maria Magdalena. Vnd sye 
+            quam auch dar myt groißer koistlicheit vnd zyerheit yres lychams als 
+            eyn lyebhaues dyeßer werelt. Vnd sy sprongen vnd dantzten zweyn dage 
+            vnd zwe nachtten, also das sie nauwe die spyße nemen moichten van 
+            groißer froelicheit vnd wyltdicheit. <sic>Da</sic> zo dyeßer zijt 
+            vername yre suster, das vnser lyeber herre Jhesus Christus was yn 
+            den galyleeschen lantde vnd er wultde zo yre komen yn Bethanyen. 
+            Da gynge Martha vnd Marttylla, yre mayt, des morgens froe zo Jherusalem 
+            zo kauffen spyße vor den heren. Vnd als Martha gynge vber [353r] den markte, 
+            da quam van dem rayt huyß myt pyffen vnd besunen Maria Magdalena varen yn 
+            dem reye myt groißer houerdicheit. Da sache Martilla, das Maria Magdalena 
+            geleyt wart yn groißer eren vnd froelicheit. Da sprache sy zo yrer frauwen 
+            Martha: ›Sehet vmb uch!‹ Vnd als sie yre suster ersache, da wart sie 
+            bytterlichen schryen, vnd sie wande yre hende zosamen vnd sprache 
+            ynwendichs jn yrem hertzen: ›Ach got, myn here vnd myn schepper, 
+            wee mych! Mych duncket, das myn suster gedynt hait den boißen geisten. 
+            Nochtant beden ich dich, dastu sie wullest ansehen myt dynen barmhert 
+            zichen augen. Vnd gyffe yre eynen anderen synne, also daz sie beßer 
+            yre leben.‹ Vnd also myt bedunge verleyffe Martha [353v] stayn vnd 
+            sy beytdet yrer suster Maria. Vnd da Maria naer quame zo yrer suster, 
+            da sprach sie Martha zo vnd fragt sie, wie iß werre, das sie also froe 
+            yn die stait wultde gayn. Martha, die heilge jonffrauwe, myt groißer 
+            oitmodicheit antwert sy yrer suster vnd sprach, daz sie dar vmb dar komen 
+            were zo keuffen die spyße yren gesten. Vff die zijt eyn haitten die zwe 
+            susteren nyt vyl wort myt eyn ander vmb des volcks wyllen, das dar by stontde. 
+            Aber Maria sprache myt eynem lachenden montde: ›Lyebe suster, keuffe auch etwes 
+            vor mych. Jch wylle zo dyr komen vnd myt dyr essen.‹ Her van sprecht der heilge 
+            lerer sanctus Augustinus, das Maria alle die dage yres lebens nye beßer spyße 
+            aße dan vff die tzijt, want da [354r] wart sie bekert van yrem sundigen leben. 
+            Des anderen dags van groißer modicht wegen gynge Maria heymelichen vßer Jherusalem 
+            vnd quamme zo Martha yrer suster huße zo Bethanya, die sie sere lyeblich entphynge 
+            myt groißer frolicheit vnd hyeße nyeder sytzen. Da sprache Maria: ›Ach suster, das 
+            doyt myr sere noyt vnd bedarffe iß gar woil, das ich ruwe, want ich hayn zweyn gantzer 
+            dage vnd zwe nacht gesprongen vnd gedantzet. Vnd ich byn gantze froelich gewest myt 
+            den jongeren van Jherusalem. Vnd ich eyn byn nye yn allen den dagen myns lebens vff 
+            eyn tzijt also froelich gewest als da. Vnd ich hayn die gantze stait van Jherusalem 
+            froeliche gemacht.‹ Recht abe sy sprechen wultde: ›Nu eyn dantzen [354v] ich nummerme.‹ 
+            Dar vff antwert Martha, die heilge jonffrauwe, yrer suster vnd sprache zo yr: ›Lyebe 
+            suster, na dem daz jre also froelich syt gewest, haittet yr auch den konynck by vch, 
+            der alle hertzen froe lich macht, vnd der da aller suberlichst ist vber alle konynck?‹ 
+            Da antwert yre Maria: ›Myt vns eyn waren keynne konynck. Wenne meynestu, den keyßer 
+            Tyberius?‹ Martha sprach: ›Jch eyn meynne nyt Tyberi, der da ist eyn konynck der menschen, 
+            sonder ich meynen den konynck aller konynck, der da ist eyn rychter vber hemelrych vnd 
+            ertrich. Vnd der selbe ist eyn erloißer der kynder van Israhel vnd er hait an yme alle 
+            die suberlicheit alle der gantzer [355r] werelt. Vnd syne vader ist got vnd syne moder 
+            ist eyne reyne jonffrauwe, die geboren ist van konyncklichem stamme Davitz.‹ Da fraget 
+            Maria nach den lyebhaberen der werelt vnd sprach also: ›Ach lyebe suster, sage myr, des 
+            beden ich dich, wo ist dyeßer konynck? Jst er also suberlich, so wylle ich yn myt mynem 
+            gelde vnd <sic>goide</sic> zo myr nemen zo mynem lyeben, vnd ich wylle synne fruntschaifft 
+            erkryegen.‹ Martha antwert yre vnd sprach: ›Aller lyebste suster, den konynck, den ich meynen, 
+            daz ist myn lyeber here Jhesus Christus, der da ist eyn meyster der selen.‹ Vnd myt den 
+            wortten wart Martha beweget myt schryen, dar vmb das Maria dyße nyt eyn verstonde geistlich, 
+            <sic>so</sic>nder fleyßelich. Da Maria sach, daz [355v] jre suster schreye, da fraget sie 
+            jre lyebe suster vnd sprache: ›Lyebe suster, war umb schryet yre alle zijt, als ich zo vch 
+            komen? Jst das myn schult, so saget myr das selbe, so wille ich nyt me here komen.‹ 
+            Da sprache sie zo yre: ›Ach lyebe suster, ich mach woille schryen, want ich hoiren alle 
+            tzijte, dastu dyne ger<sic>uv</sic>cht, das da beßer ist dan gult vnd sylber, das haistu 
+            verloren. Vnd dyne geselschaifft eyn ist nyt gut vnd du befleckest dyne schone sele myt 
+            dynen groißen sunden. Vnd also moiße ich dyne boiße gerucht allezijt horen, wo ich hyn komen.‹ 
+            Magdalena eyn konde sich nyt langer enthalden, da sy Martha sache schryen. Da sprache sie myt 
+            schryenden augen: ›Ach lyebe suster, iß ist <sic>…</sic>‹
+         </p>
+      </body>
+   </text>
+</TEI>
